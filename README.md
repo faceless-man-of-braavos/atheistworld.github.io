@@ -1,4 +1,4 @@
-# indian-atheist
+# Atheist World
 
 It is a static website, which makes use of [mkdocs](https://www.mkdocs.org/).
 
